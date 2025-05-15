@@ -1,6 +1,6 @@
 ## Dictionary Operations in Python: Merging Two Dictionaries
 
-Developed By: Swetha K
+Name: Swetha K
 
 Register No: 212224230284
 
