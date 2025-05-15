@@ -1,6 +1,6 @@
 # Classes and Objects in Python: Calculate the Area of a Circle
 
-Developed By: Swetha K
+Name: Swetha K
 
 Register No: 212224230284
 
